@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hello, I'm Kurizaki!
 
-<!--
-**Kurizaki/Kurizaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Computer Science Student from Switzerland with a keen interest in application development. Thank you for taking the time to visit.
 
-Here are some ideas to get you started:
+## 💼 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: 
+- Tools & Technologies:
+- Databases:
+- Other:
+
+## 📊 GitHub Stats
+
+![Kurizaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurizaki&show_icons=true&theme=transparent)
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://ch.linkedin.com/in/keanu-koelewijn-4a131a299)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat-square&logo=dev.to&logoColor=white)](https://kurizaki.github.io/Resume/)
+
