@@ -2,9 +2,13 @@
 
 Welcome to my GitHub profile! I'm a passionate Computer Science Student from Switzerland with a keen interest in application development. Thank you for taking the time to visit.
 
-## 💼 Skills and Technologies
+## 💼 Skills and Technologies I've worked with
 
-- Programming Languages: 
+- Programming Languages:
+  -C#
+  -Python
+  -C++
+  -
 - Tools & Technologies:
 - Databases:
 - Other:
