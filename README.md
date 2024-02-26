@@ -5,13 +5,20 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Student from Swi
 ## 💼 Skills and Technologies I've worked with
 
 - Programming Languages:
-  -C#
-  -Python
-  -C++
-  -
+  - C#
+  - Python
+  - C++
+  - Java (Robocode)
+  - JavaScript
+  - Powershell
+  - Bash
 - Tools & Technologies:
+  - Docker
 - Databases:
+  - SQL
 - Other:
+  - Windows
+  - Linux
 
 ## 📊 GitHub Stats
 
