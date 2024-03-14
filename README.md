@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Student from Swi
   - Bash
 - Tools & Technologies:
   - Docker
+  - Git
 - Databases:
   - SQL
 - Other:
