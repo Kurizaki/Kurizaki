@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Student from Swi
 ## 📊 GitHub Stats
 
 ![Kurizaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurizaki&show_icons=true&theme=transparent)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurizaki&layout=compact)](https://github.com/kurizaki/github-readme-stats)-->
 
 ## 📫 Get in Touch
 
