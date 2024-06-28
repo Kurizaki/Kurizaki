@@ -29,5 +29,5 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Student from Swi
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://ch.linkedin.com/in/keanu-koelewijn-4a131a299)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat-square&logo=dev.to&logoColor=white)](https://kurizaki.github.io/Resume/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat-square&logo=dev.to&logoColor=white)](https://kurizaki.github.io)
 
