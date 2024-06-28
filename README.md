@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science Student from Swi
 
 ## 📊 GitHub Stats
 
-![Kurizaki's GitHub stats]([https://github-readme-stats.vercel.app/api?username=kurizaki&show_icons=true&theme=transparent](https://camo.githubusercontent.com/691f8b61893dddd388ed9e6eda7db7c1d31f0cdf6584ce5cbee808291004c557/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b7572697a616b692673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e74))
+![Kurizaki's GitHub stats]([https://github-readme-stats.vercel.app/api?username=kurizaki&show_icons=true&theme=transparent])
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurizaki&layout=compact)](https://github.com/kurizaki/github-readme-stats)-->
 
 ## 📫 Get in Touch
