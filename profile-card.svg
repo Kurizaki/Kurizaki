@@ -1,8 +1,8 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="900"
-  height="1120"
-  viewBox="0 0 900 1120"
+  height="960"
+  viewBox="0 0 900 960"
   fill="none"
   role="img"
   aria-labelledby="title desc"
@@ -33,6 +33,30 @@
       stroke: #d0cac0;
     }
 
+    @keyframes wave {
+      0%,
+      60%,
+      100% {
+        transform: rotate(0deg);
+      }
+
+      10%,
+      30% {
+        transform: rotate(14deg);
+      }
+
+      20%,
+      40% {
+        transform: rotate(-8deg);
+      }
+    }
+
+    .wave {
+      animation: wave 2.4s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: 70% 70%;
+    }
+
     @media (prefers-color-scheme: dark) {
       .strong {
         fill: #f0f3f6;
@@ -55,13 +79,17 @@
       }
     }
 
+    @media (prefers-reduced-motion) {
+      .wave {
+        animation: none;
+      }
+    }
+
   </style>
 
-  <line class="line-strong" x1="94" y1="96" x2="806" y2="96" stroke="#aaa39a" stroke-width="1.35" />
-  <line class="line-soft" x1="20" y1="1068" x2="880" y2="1068" stroke="#d0cac0" stroke-width="1" />
   <text
     x="450"
-    y="205"
+    y="80"
     text-anchor="middle"
     class="muted"
     fill="#5f5a55"
@@ -69,14 +97,14 @@
     font-size="26"
     font-style="normal"
   >
-    Welcome to my profile, I am
+    Welcome to my profile
   </text>
 
-  <line class="line-soft" x1="260" y1="224" x2="640" y2="224" stroke="#d0cac0" stroke-width="1" />
+  <line class="line-soft" x1="260" y1="99" x2="640" y2="99" stroke="#d0cac0" stroke-width="1" />
 
   <text
     x="450"
-    y="276"
+    y="151"
     text-anchor="middle"
     class="strong"
     fill="#171717"
@@ -90,7 +118,7 @@
 
   <text
     x="450"
-    y="336"
+    y="211"
     text-anchor="middle"
     class="muted"
     fill="#5f5a55"
@@ -101,11 +129,11 @@
     Software Engineer
   </text>
 
-  <line class="line-soft" x1="172" y1="392" x2="728" y2="392" stroke="#d0cac0" stroke-width="1" />
+  <line class="line-soft" x1="172" y1="267" x2="728" y2="267" stroke="#d0cac0" stroke-width="1" />
 
   <text
     x="450"
-    y="450"
+    y="325"
     text-anchor="middle"
     class="heading"
     fill="#2e2b28"
@@ -119,7 +147,7 @@
 
   <text
     x="450"
-    y="494"
+    y="369"
     text-anchor="middle"
     class="muted"
     fill="#5f5a55"
@@ -133,7 +161,7 @@
 
   <text
     x="450"
-    y="610"
+    y="485"
     text-anchor="middle"
     class="muted"
     fill="#5f5a55"
@@ -146,11 +174,11 @@
     <tspan x="450" dy="30">and external API integrations.</tspan>
   </text>
 
-  <line class="line-soft" x1="250" y1="718" x2="650" y2="718" stroke="#d0cac0" stroke-width="1" />
+  <line class="line-soft" x1="250" y1="593" x2="650" y2="593" stroke="#d0cac0" stroke-width="1" />
 
   <text
     x="450"
-    y="758"
+    y="633"
     text-anchor="middle"
     class="muted"
     fill="#5f5a55"
@@ -163,11 +191,11 @@
     <tspan x="450" dy="30">and intent-based task execution through Behaviour Trees.</tspan>
   </text>
 
-  <line class="line-soft" x1="250" y1="866" x2="650" y2="866" stroke="#d0cac0" stroke-width="1" />
+  <line class="line-soft" x1="250" y1="741" x2="650" y2="741" stroke="#d0cac0" stroke-width="1" />
 
   <text
     x="450"
-    y="906"
+    y="781"
     text-anchor="middle"
     class="muted"
     fill="#5f5a55"
@@ -181,7 +209,7 @@
 
   <text
     x="450"
-    y="1002"
+    y="877"
     text-anchor="middle"
     class="muted"
     fill="#5f5a55"
@@ -191,5 +219,16 @@
   >
     <tspan x="450" dy="0">Continuously learning through modern technologies, software architecture,</tspan>
     <tspan x="450" dy="30">and practical development strategies.</tspan>
+  </text>
+
+  <text
+    class="wave"
+    x="580"
+    y="80"
+    fill="#5f5a55"
+    font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif"
+    font-size="26"
+  >
+    👋
   </text>
 </svg>
